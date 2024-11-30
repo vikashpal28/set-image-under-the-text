@@ -1,0 +1,10 @@
+#start{
+    text-align: center;
+    font-size: 300px;
+    font-weight:900;
+    background-image:url('vikash.jpg');
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;  
+    
+}
